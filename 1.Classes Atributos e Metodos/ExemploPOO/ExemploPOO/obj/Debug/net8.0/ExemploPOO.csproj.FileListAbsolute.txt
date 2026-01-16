@@ -1,0 +1,14 @@
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/ExemploPOO/ExemploPOO/bin/Debug/net8.0/ExemploPOO
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/ExemploPOO/ExemploPOO/bin/Debug/net8.0/ExemploPOO.deps.json
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/ExemploPOO/ExemploPOO/bin/Debug/net8.0/ExemploPOO.runtimeconfig.json
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/ExemploPOO/ExemploPOO/bin/Debug/net8.0/ExemploPOO.dll
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/ExemploPOO/ExemploPOO/bin/Debug/net8.0/ExemploPOO.pdb
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/ExemploPOO/ExemploPOO/obj/Debug/net8.0/ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/ExemploPOO/ExemploPOO/obj/Debug/net8.0/ExemploPOO.AssemblyInfoInputs.cache
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/ExemploPOO/ExemploPOO/obj/Debug/net8.0/ExemploPOO.AssemblyInfo.cs
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/ExemploPOO/ExemploPOO/obj/Debug/net8.0/ExemploPOO.csproj.CoreCompileInputs.cache
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/ExemploPOO/ExemploPOO/obj/Debug/net8.0/ExemploPOO.dll
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/ExemploPOO/ExemploPOO/obj/Debug/net8.0/refint/ExemploPOO.dll
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/ExemploPOO/ExemploPOO/obj/Debug/net8.0/ExemploPOO.pdb
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/ExemploPOO/ExemploPOO/obj/Debug/net8.0/ExemploPOO.genruntimeconfig.cache
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/ExemploPOO/ExemploPOO/obj/Debug/net8.0/ref/ExemploPOO.dll

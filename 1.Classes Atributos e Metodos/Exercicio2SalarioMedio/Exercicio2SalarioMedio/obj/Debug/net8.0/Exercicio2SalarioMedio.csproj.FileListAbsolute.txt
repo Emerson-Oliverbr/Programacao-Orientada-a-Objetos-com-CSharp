@@ -1,0 +1,14 @@
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/Exercicio2SalarioMedio/Exercicio2SalarioMedio/bin/Debug/net8.0/Exercicio2SalarioMedio
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/Exercicio2SalarioMedio/Exercicio2SalarioMedio/bin/Debug/net8.0/Exercicio2SalarioMedio.deps.json
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/Exercicio2SalarioMedio/Exercicio2SalarioMedio/bin/Debug/net8.0/Exercicio2SalarioMedio.runtimeconfig.json
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/Exercicio2SalarioMedio/Exercicio2SalarioMedio/bin/Debug/net8.0/Exercicio2SalarioMedio.dll
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/Exercicio2SalarioMedio/Exercicio2SalarioMedio/bin/Debug/net8.0/Exercicio2SalarioMedio.pdb
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/Exercicio2SalarioMedio/Exercicio2SalarioMedio/obj/Debug/net8.0/Exercicio2SalarioMedio.GeneratedMSBuildEditorConfig.editorconfig
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/Exercicio2SalarioMedio/Exercicio2SalarioMedio/obj/Debug/net8.0/Exercicio2SalarioMedio.AssemblyInfoInputs.cache
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/Exercicio2SalarioMedio/Exercicio2SalarioMedio/obj/Debug/net8.0/Exercicio2SalarioMedio.AssemblyInfo.cs
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/Exercicio2SalarioMedio/Exercicio2SalarioMedio/obj/Debug/net8.0/Exercicio2SalarioMedio.csproj.CoreCompileInputs.cache
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/Exercicio2SalarioMedio/Exercicio2SalarioMedio/obj/Debug/net8.0/Exercicio2SalarioMedio.dll
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/Exercicio2SalarioMedio/Exercicio2SalarioMedio/obj/Debug/net8.0/refint/Exercicio2SalarioMedio.dll
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/Exercicio2SalarioMedio/Exercicio2SalarioMedio/obj/Debug/net8.0/Exercicio2SalarioMedio.pdb
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/Exercicio2SalarioMedio/Exercicio2SalarioMedio/obj/Debug/net8.0/Exercicio2SalarioMedio.genruntimeconfig.cache
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/Exercicio2SalarioMedio/Exercicio2SalarioMedio/obj/Debug/net8.0/ref/Exercicio2SalarioMedio.dll

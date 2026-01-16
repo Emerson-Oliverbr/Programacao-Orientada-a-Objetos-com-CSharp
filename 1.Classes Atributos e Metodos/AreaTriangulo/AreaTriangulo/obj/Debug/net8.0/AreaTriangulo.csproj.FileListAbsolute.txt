@@ -1,0 +1,14 @@
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/AreaTriangulo/AreaTriangulo/bin/Debug/net8.0/AreaTriangulo
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/AreaTriangulo/AreaTriangulo/bin/Debug/net8.0/AreaTriangulo.deps.json
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/AreaTriangulo/AreaTriangulo/bin/Debug/net8.0/AreaTriangulo.runtimeconfig.json
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/AreaTriangulo/AreaTriangulo/bin/Debug/net8.0/AreaTriangulo.dll
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/AreaTriangulo/AreaTriangulo/bin/Debug/net8.0/AreaTriangulo.pdb
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/AreaTriangulo/AreaTriangulo/obj/Debug/net8.0/AreaTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/AreaTriangulo/AreaTriangulo/obj/Debug/net8.0/AreaTriangulo.AssemblyInfoInputs.cache
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/AreaTriangulo/AreaTriangulo/obj/Debug/net8.0/AreaTriangulo.AssemblyInfo.cs
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/AreaTriangulo/AreaTriangulo/obj/Debug/net8.0/AreaTriangulo.csproj.CoreCompileInputs.cache
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/AreaTriangulo/AreaTriangulo/obj/Debug/net8.0/AreaTriangulo.dll
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/AreaTriangulo/AreaTriangulo/obj/Debug/net8.0/refint/AreaTriangulo.dll
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/AreaTriangulo/AreaTriangulo/obj/Debug/net8.0/AreaTriangulo.pdb
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/AreaTriangulo/AreaTriangulo/obj/Debug/net8.0/AreaTriangulo.genruntimeconfig.cache
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/AreaTriangulo/AreaTriangulo/obj/Debug/net8.0/ref/AreaTriangulo.dll

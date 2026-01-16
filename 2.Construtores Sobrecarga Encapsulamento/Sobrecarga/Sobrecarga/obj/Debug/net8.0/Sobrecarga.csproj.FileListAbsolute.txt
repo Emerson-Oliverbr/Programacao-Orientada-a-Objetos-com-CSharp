@@ -1,0 +1,14 @@
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Sobrecarga/Sobrecarga/bin/Debug/net8.0/Sobrecarga
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Sobrecarga/Sobrecarga/bin/Debug/net8.0/Sobrecarga.deps.json
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Sobrecarga/Sobrecarga/bin/Debug/net8.0/Sobrecarga.runtimeconfig.json
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Sobrecarga/Sobrecarga/bin/Debug/net8.0/Sobrecarga.dll
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Sobrecarga/Sobrecarga/bin/Debug/net8.0/Sobrecarga.pdb
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Sobrecarga/Sobrecarga/obj/Debug/net8.0/Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Sobrecarga/Sobrecarga/obj/Debug/net8.0/Sobrecarga.AssemblyInfoInputs.cache
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Sobrecarga/Sobrecarga/obj/Debug/net8.0/Sobrecarga.AssemblyInfo.cs
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Sobrecarga/Sobrecarga/obj/Debug/net8.0/Sobrecarga.csproj.CoreCompileInputs.cache
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Sobrecarga/Sobrecarga/obj/Debug/net8.0/Sobrecarga.dll
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Sobrecarga/Sobrecarga/obj/Debug/net8.0/refint/Sobrecarga.dll
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Sobrecarga/Sobrecarga/obj/Debug/net8.0/Sobrecarga.pdb
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Sobrecarga/Sobrecarga/obj/Debug/net8.0/Sobrecarga.genruntimeconfig.cache
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Sobrecarga/Sobrecarga/obj/Debug/net8.0/ref/Sobrecarga.dll

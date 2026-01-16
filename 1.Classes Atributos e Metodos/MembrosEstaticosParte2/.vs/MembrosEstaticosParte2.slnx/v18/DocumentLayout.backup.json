@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DevCharp\\MembrosEstaticosParte2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0B71AD-770D-47BD-A7CF-7AA049B8D44D}|MembrosEstaticosParte2\\MembrosEstaticosParte2.csproj|c:\\devcharp\\membrosestaticosparte2\\membrosestaticosparte2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0B71AD-770D-47BD-A7CF-7AA049B8D44D}|MembrosEstaticosParte2\\MembrosEstaticosParte2.csproj|solutionrelative:membrosestaticosparte2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0B71AD-770D-47BD-A7CF-7AA049B8D44D}|MembrosEstaticosParte2\\MembrosEstaticosParte2.csproj|c:\\devcharp\\membrosestaticosparte2\\membrosestaticosparte2\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0B71AD-770D-47BD-A7CF-7AA049B8D44D}|MembrosEstaticosParte2\\MembrosEstaticosParte2.csproj|solutionrelative:membrosestaticosparte2\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\DevCharp\\MembrosEstaticosParte2\\MembrosEstaticosParte2\\Calculadora.cs",
+              "RelativeDocumentMoniker": "MembrosEstaticosParte2\\Calculadora.cs",
+              "ToolTip": "C:\\DevCharp\\MembrosEstaticosParte2\\MembrosEstaticosParte2\\Calculadora.cs",
+              "RelativeToolTip": "MembrosEstaticosParte2\\Calculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T02:06:49.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DevCharp\\MembrosEstaticosParte2\\MembrosEstaticosParte2\\Program.cs",
+              "RelativeDocumentMoniker": "MembrosEstaticosParte2\\Program.cs",
+              "ToolTip": "C:\\DevCharp\\MembrosEstaticosParte2\\MembrosEstaticosParte2\\Program.cs",
+              "RelativeToolTip": "MembrosEstaticosParte2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T01:47:16.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
