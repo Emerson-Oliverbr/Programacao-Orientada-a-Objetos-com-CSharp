@@ -1,0 +1,15 @@
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Encapsulemento/Encapsulemento/bin/Debug/net8.0/Encapsulemento
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Encapsulemento/Encapsulemento/bin/Debug/net8.0/Encapsulemento.deps.json
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Encapsulemento/Encapsulemento/bin/Debug/net8.0/Encapsulemento.runtimeconfig.json
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Encapsulemento/Encapsulemento/bin/Debug/net8.0/Encapsulemento.dll
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Encapsulemento/Encapsulemento/bin/Debug/net8.0/Encapsulemento.pdb
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Encapsulemento/Encapsulemento/obj/Debug/net8.0/Encapsulemento.GeneratedMSBuildEditorConfig.editorconfig
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Encapsulemento/Encapsulemento/obj/Debug/net8.0/Encapsulemento.AssemblyInfoInputs.cache
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Encapsulemento/Encapsulemento/obj/Debug/net8.0/Encapsulemento.AssemblyInfo.cs
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Encapsulemento/Encapsulemento/obj/Debug/net8.0/Encapsulemento.csproj.CoreCompileInputs.cache
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Encapsulemento/Encapsulemento/obj/Debug/net8.0/Encapsulemento.sourcelink.json
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Encapsulemento/Encapsulemento/obj/Debug/net8.0/Encapsulemento.dll
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Encapsulemento/Encapsulemento/obj/Debug/net8.0/refint/Encapsulemento.dll
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Encapsulemento/Encapsulemento/obj/Debug/net8.0/Encapsulemento.pdb
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Encapsulemento/Encapsulemento/obj/Debug/net8.0/Encapsulemento.genruntimeconfig.cache
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Encapsulemento/Encapsulemento/obj/Debug/net8.0/ref/Encapsulemento.dll

@@ -1,0 +1,15 @@
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/PalavraThis/PalavraThis/bin/Debug/net8.0/PalavraThis
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/PalavraThis/PalavraThis/bin/Debug/net8.0/PalavraThis.deps.json
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/PalavraThis/PalavraThis/bin/Debug/net8.0/PalavraThis.runtimeconfig.json
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/PalavraThis/PalavraThis/bin/Debug/net8.0/PalavraThis.dll
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/PalavraThis/PalavraThis/bin/Debug/net8.0/PalavraThis.pdb
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/PalavraThis/PalavraThis/obj/Debug/net8.0/PalavraThis.GeneratedMSBuildEditorConfig.editorconfig
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/PalavraThis/PalavraThis/obj/Debug/net8.0/PalavraThis.AssemblyInfoInputs.cache
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/PalavraThis/PalavraThis/obj/Debug/net8.0/PalavraThis.AssemblyInfo.cs
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/PalavraThis/PalavraThis/obj/Debug/net8.0/PalavraThis.csproj.CoreCompileInputs.cache
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/PalavraThis/PalavraThis/obj/Debug/net8.0/PalavraThis.sourcelink.json
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/PalavraThis/PalavraThis/obj/Debug/net8.0/PalavraThis.dll
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/PalavraThis/PalavraThis/obj/Debug/net8.0/refint/PalavraThis.dll
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/PalavraThis/PalavraThis/obj/Debug/net8.0/PalavraThis.pdb
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/PalavraThis/PalavraThis/obj/Debug/net8.0/PalavraThis.genruntimeconfig.cache
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/PalavraThis/PalavraThis/obj/Debug/net8.0/ref/PalavraThis.dll
