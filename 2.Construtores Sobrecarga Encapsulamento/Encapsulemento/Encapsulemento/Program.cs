@@ -9,7 +9,7 @@ class Program
         Produto produto = new Produto("TV", 900.00, 10);
         Console.WriteLine($"{produto.GetNome()}");
         
-        produto.SetNome("TS-4K");
+        produto.SetNome("TV-4K");
         Console.WriteLine($"{produto.GetNome()}");
         
 

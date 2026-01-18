@@ -1,0 +1,15 @@
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Properties/Properties/bin/Debug/net8.0/Properties
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Properties/Properties/bin/Debug/net8.0/Properties.deps.json
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Properties/Properties/bin/Debug/net8.0/Properties.runtimeconfig.json
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Properties/Properties/bin/Debug/net8.0/Properties.dll
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Properties/Properties/bin/Debug/net8.0/Properties.pdb
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Properties/Properties/obj/Debug/net8.0/Properties.GeneratedMSBuildEditorConfig.editorconfig
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Properties/Properties/obj/Debug/net8.0/Properties.AssemblyInfoInputs.cache
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Properties/Properties/obj/Debug/net8.0/Properties.AssemblyInfo.cs
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Properties/Properties/obj/Debug/net8.0/Properties.csproj.CoreCompileInputs.cache
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Properties/Properties/obj/Debug/net8.0/Properties.sourcelink.json
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Properties/Properties/obj/Debug/net8.0/Properties.dll
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Properties/Properties/obj/Debug/net8.0/refint/Properties.dll
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Properties/Properties/obj/Debug/net8.0/Properties.pdb
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Properties/Properties/obj/Debug/net8.0/Properties.genruntimeconfig.cache
+/home/emerson-oliveira/DevDotnet/CSharpComPOO/2.Construtores Sobrecarga Encapsulamento/Properties/Properties/obj/Debug/net8.0/ref/Properties.dll
