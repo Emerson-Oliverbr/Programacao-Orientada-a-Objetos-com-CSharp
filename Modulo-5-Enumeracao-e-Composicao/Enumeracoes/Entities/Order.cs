@@ -1,5 +1,6 @@
-﻿namespace Enumeracoes.Entities;
-using Enumeracoes.Entities.Enums;
+﻿using Enumeracoes.Entities.Enums;
+
+namespace Enumeracoes.Entities;
 
 internal class Order
 {
